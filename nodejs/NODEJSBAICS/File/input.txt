@@ -1,0 +1,1 @@
+input.txt: The future will be brite, I'm sure!

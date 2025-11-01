@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Chronicles of Riddick",
+        "description": "The wanted criminal Riddick arrives on a planet called Helion Prime...",
+        "duration": 119,
+        "ratings": 6.7,
+        "totalRating": 312,
+        "releaseYear": 2004,
+        "releaseDate": "2004-01-01T00:00:00.000Z",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "directors": [
+            "David Twohy"
+        ],
+        "coverImage": "chronicles-riddick-2004.png",
+        "actors": [
+            "Vin Diesel",
+            "Judi Dench",
+            "Karl Urban"
+        ],
+        "price": 48
+    },
+    {
+    "name": "Guardians of the Galaxy",
+    "description": "A group of intergalactic criminals must pull together...",
+    "duration": 121,
+    "ratings": 8,
+    "totalRating": 892,
+    "releaseYear": 2014,
+    "releaseDate": "2014-01-01T00:00:00.000Z",
+    "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+    ],
+    "directors": [
+        "James Gunn"
+    ],
+    "coverImage": "guardians-galaxy-2014.png",
+    "actors": [
+        "Chris Pratt",
+        "Zoe Saldana",
+        "Dave Bautista"
+    ],
+    "price": 55
+    },
+    {
+    "name": "Grand Budapest Hotel",
+    "description": "The adventures of Gustave H, a legendary concierge at a famous European hotel.",
+    "duration": 100,
+    "ratings": 8.1,
+    "totalRating": 765,
+    "releaseYear": 2014,
+    "releaseDate": "2014-01-01T00:00:00.000Z",
+    "genres": [
+        "Comedy",
+        "Adventure"
+    ],
+    "directors": [
+        "Wes Anderson"
+    ],
+    "coverImage": "grand-budapest-hotel.png",
+    "actors": [
+        "Ralph Fiennes",
+        "Tony Revolori"
+    ],
+    "price": 45
+    },
+    {
+    "name": "A Separation",
+    "description": "A married couple is faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a parent.",
+    "duration": 123,
+    "ratings": 8.3,
+    "totalRating": 950,
+    "releaseYear": 2011,
+    "releaseDate": "2011-01-01T00:00:00.000Z",
+    "genres": [
+        "Drama",
+        "Family"
+    ],
+    "directors": [
+        "Asghar Farhadi"
+    ],
+    "coverImage": "a-separation-2011.png",
+    "actors": [
+        "Peyman Moaadi",
+        "Leila Hatami"
+    ],
+    "price": 38
+    },
+    {
+    "name": "Dune",
+    "description": "Feature adaptation of Frank Herbert's science fiction novel...",
+    "duration": 155,
+    "ratings": 8,
+    "totalRating": 712,
+    "releaseYear": 2021,
+    "releaseDate": "2021-01-01T00:00:00.000Z",
+    "genres": [
+        "Sci-Fi",
+        "Adventure"
+    ],
+    "directors": [
+        "Denis Villeneuve"
+    ],
+    "coverImage": "dune-2021.png",
+    "actors": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson"
+    ],
+    "price": 58
+    },
+    {
+    "name": "About Time",
+    "description": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life.",
+    "duration": 123,
+    "ratings": 7.8,
+    "totalRating": 580,
+    "releaseYear": 2013,
+    "releaseDate": "2013-01-01T00:00:00.000Z",
+    "genres": [
+        "Romance",
+        "Comedy"
+    ],
+    "directors": [
+        "Richard Curtis"
+    ],
+    "coverImage": "about-time-2013.png",
+    "actors": [
+        "Domhnall Gleeson",
+        "Rachel McAdams"
+    ],
+    "price": 42
+    },
+    {
+    "name": "The Fifth Element",
+    "description": "In the colorful future, a cab driver unwittingly becomes the central figure...",
+    "duration": 126,
+    "ratings": 7.7,
+    "totalRating": 598,
+    "releaseYear": 1997,
+    "releaseDate": "1997-01-01T00:00:00.000Z",
+    "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+    ],
+    "directors": [
+        "Luc Besson"
+    ],
+    "coverImage": "fifth-element-1997.png",
+    "actors": [
+        "Bruce Willis",
+        "Milla Jovovich",
+        "Gary Oldman"
+    ],
+    "price": 47
+    },
+    {
+    "name": "Pitch Black",
+    "description": "A commercial transport ship and its crew are marooned on a planet...",
+    "duration": 109,
+    "ratings": 7.1,
+    "totalRating": 285,
+    "releaseYear": 2000,
+    "releaseDate": "2000-01-01T00:00:00.000Z",
+    "genres": [
+        "Action",
+        "Sci-Fi",
+        "Horror"
+    ],
+    "directors": [
+        "David Twohy"
+    ],
+    "coverImage": "pitch-black-2000.png",
+    "actors": [
+        "Vin Diesel",
+        "Radha Mitchell"
+    ],
+    "price": 45
+    },
+    {
+    "name": "Manchester by the Sea",
+    "description": "A man's life is tragically complicated when he returns to his hometown to care for his teenage nephew.",
+    "duration": 137,
+    "ratings": 7.8,
+    "totalRating": 610,
+    "releaseYear": 2016,
+    "releaseDate": "2016-01-01T00:00:00.000Z",
+    "genres": [
+        "Drama"
+    ],
+    "directors": [
+        "Kenneth Lonergan"
+    ],
+    "coverImage": "manchester-by-sea.png",
+    "actors": [
+        "Casey Affleck",
+        "Michelle Williams"
+    ],
+    "price": 40
+    }
+]

@@ -1,0 +1,21 @@
+A new movie document with name Movie text Name 1 has been created by Pedro Tchipoco
+A new movie document with name Movie text Name 2 has been created by Pedro Tchipoco
+A new movie document with name undefined has been created by undefined
+A new movie document with name undefined has been created by undefined
+A new movie document with name Grand Budapest Hotel has been created by Pedro Tchipoco
+A new movie document with name Chronicles of Riddick has been created by Pedro Tchipoco
+A new movie document with name Grand Budapest Hotel has been created by Pedro Tchipoco
+A new movie document with name A Separation has been created by Pedro Tchipoco
+A new movie document with name Dune has been created by Pedro Tchipoco
+A new movie document with name About Time has been created by Pedro Tchipoco
+A new movie document with name The Fifth Element has been created by Pedro Tchipoco
+A new movie document with name Pitch Black has been created by Pedro Tchipoco
+A new movie document with name Manchester by the Sea has been created by Pedro Tchipoco
+A new movie document with name Guardians of the Galaxy has been created by Pedro Tchipoco
+A new movie document with name Chronicles of Riddick has been created by Pedro Tchipoco
+Query took 86 milliseconds to fetch the documents.A new movie document with name ABC has been created by Pedro Tchipoco
+A new movie document with name ABCa has been created by Pedro Tchipoco
+A new movie document with name Thefuture has been created by Pedro Tchipoco
+A new movie document with name The future has been created by Pedro Tchipoco
+Query took 68 milliseconds to fetch the documents.Query took 128 milliseconds to fetch the documents.Query took 47 milliseconds to fetch the documents.Query took 62 milliseconds to fetch the documents.A new movie document with name just believe has been created by Pedro Tchipoco
+Query took 77 milliseconds to fetch the documents.Query took 50 milliseconds to fetch the documents.Query took 47 milliseconds to fetch the documents.Query took 51 milliseconds to fetch the documents.Query took 182 milliseconds to fetch the documents.Query took 67 milliseconds to fetch the documents.Query took 49 milliseconds to fetch the documents.Query took 48 milliseconds to fetch the documents.Query took 51 milliseconds to fetch the documents.Query took 53 milliseconds to fetch the documents.Query took 222 milliseconds to fetch the documents.Query took 67 milliseconds to fetch the documents.Query took 60 milliseconds to fetch the documents.Query took 59 milliseconds to fetch the documents.Query took 161 milliseconds to fetch the documents.Query took 183 milliseconds to fetch the documents.Query took 442 milliseconds to fetch the documents.Query took 192 milliseconds to fetch the documents.
